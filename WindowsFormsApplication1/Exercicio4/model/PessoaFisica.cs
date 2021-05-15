@@ -15,7 +15,7 @@ namespace WindowsFormsApplication1.Exercicio4
             this.cpf = cpf;
         }
 
-        public string getCpf()
+        public int getCpf()
         {
             return cpf;
         }
